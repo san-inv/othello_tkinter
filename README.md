@@ -21,7 +21,7 @@ Python と tkinter で作成したオセロ（リバーシ）ゲームです。
 
 ## スクリーンショット
 
-![ゲーム画像](screenshots/screen.png)
+<img src="screenshots/screen.png" width="350px">
 
 ## 必要条件
 
