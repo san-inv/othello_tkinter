@@ -32,7 +32,7 @@ Python と tkinter で作成したオセロ（リバーシ）ゲームです。
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/San/othello_tkinter.git
+git clone https://github.com/san-inv/othello_tkinter.git
 
 # ディレクトリに移動
 cd othello_tkinter
